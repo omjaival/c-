@@ -16,6 +16,7 @@ int main()
     function(45);
     function(07);
     function(01);
+    function(10);
 
     std::cin.get();
 }
