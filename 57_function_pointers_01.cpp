@@ -1,5 +1,3 @@
-// here we eliminated the use of PrintVale function
-
 #include <iostream>
 #include <vector>
 
